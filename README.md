@@ -81,6 +81,4 @@ Without the required GUI support, the graphical interface may not display or com
 
 ## Contributors 🤝
 
-* [@rhee-c31](https://github.com/rhee-c31)
-* [@Edukaxs](https://github.com/Edukaxs)
-* [@GalSal0967](https://github.com/GalSal0967)
+![](./CONTRIBUTOR_MURAL.svg)
